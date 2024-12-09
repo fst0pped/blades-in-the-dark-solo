@@ -20,6 +20,7 @@
 | Study   | **  | Prowl    |     | Command |     |
 | Survey  |     | Skirmish |     | Consort | *   |
 | Tinker  | **  | Wreck    | **  | Sway    |     |
+
 **Special ability:** Saboteur. When you *Wreck* the work is much quieter and well hidden from casual inspection.
 
 ## Contacts
