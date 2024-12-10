@@ -31,10 +31,14 @@
             "id": "40507b33c529a0b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PCs/PC-Zamira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PC-Zamira"
             }
           }
         ]
@@ -178,8 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40507b33c529a0b4",
+  "active": "2c816e078f0ae0c7",
   "lastOpenFiles": [
+    "PCs/PC-Zamira.md",
+    "PCs/PC-Kaslyn.md",
     "PCs/PC-Weaver.md",
     "Welcome.md",
     "NPCs",
