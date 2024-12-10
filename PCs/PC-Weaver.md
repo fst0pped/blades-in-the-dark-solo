@@ -1,3 +1,4 @@
+[[CREW-Hawkers]]
 ## Experience triggers
 * Address a challenge with technical skill or mayhem
 ## Special items (p.71)
@@ -17,7 +18,7 @@
 | Insight |     | Prowess  |     | Resolve |     |
 | ------- | --- | -------- | --- | ------- | --- |
 | Hunt    |     | Finesse  |     | Attune  |     |
-| Study   | **  | Prowl    |     | Command |     |
+| Study   | **  | Prowl    |     | Command | *   |
 | Survey  |     | Skirmish |     | Consort | *   |
 | Tinker  | **  | Wreck    | **  | Sway    |     |
 

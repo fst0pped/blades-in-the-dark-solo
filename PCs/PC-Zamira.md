@@ -1,3 +1,4 @@
+[[CREW-Hawkers]]
 ## Experience triggers
 * Address a challenge with stealth or evasion
 ## Special items (p.75)
@@ -18,7 +19,7 @@
 | ------- | --- | -------- | --- | ------- | --- |
 | Hunt    | *   | Finesse  | **  | Attune  |     |
 | Study   |     | Prowl    | **  | Command |     |
-| Survey  | **  | Skirmish |     | Consort |     |
+| Survey  | **  | Skirmish |     | Consort | *   |
 | Tinker  |     | Wreck    |     | Sway    |     |
 
 **Special ability:** Infiltrator. Not affected by quality or tier when bypassing security measures. 
