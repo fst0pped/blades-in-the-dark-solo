@@ -1,6 +1,6 @@
 ## Experience triggers
 * Address a challenge with stealth or evasion
-## Special items (p.71)
+## Special items (p.75)
 * Fine lockpicks
 * Fine shadow cloak
 * Light climbing gear

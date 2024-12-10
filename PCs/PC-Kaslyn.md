@@ -1,6 +1,6 @@
 ## Experience triggers
 * Address a challenge with deception or influence
-## Special items (p.71)
+## Special items (p.79)
 * Fine clothes & jewellery
 * Fine disguise kit
 * Fine loaded dice, trick cards
