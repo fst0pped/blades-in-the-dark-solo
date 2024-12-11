@@ -1,0 +1,1 @@
+Lair has locks, alarms and traps to thwart intruders. p95

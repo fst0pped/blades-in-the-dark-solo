@@ -1,0 +1,1 @@
+Crew has a boat, dock on waterway, small shack with boating supplies.

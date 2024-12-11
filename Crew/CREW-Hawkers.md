@@ -11,11 +11,11 @@
 
 **Training: Resolve** Earn 2XP when you train Resolve in downtime. p.95
 
-**Lair: Secure** Lair has locks, alarms and traps to thwart intruders. p95
+**[[UPGRADE-Secure Lair]]** Lair has locks, alarms and traps to thwart intruders. p95
 
-**Workshop:** Lair has tools for tinkering, alchemy, books, documents, maps. Can accomplish long term projects without leaving lair.
+**[[UPGRADE-Workshop]]:** Lair has tools for tinkering, alchemy, books, documents, maps. Can accomplish long term projects without leaving lair.
 
-**Boat House:** Crew has a boat, dock on waterway, small shack with boating supplies.
+**[[UPGRADE-Boat House]]:** Crew has a boat, dock on waterway, small shack with boating supplies.
 
 ## Special Abilities
 
