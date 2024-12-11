@@ -1,3 +1,4 @@
+#vice
 Manager and director of the [[LOCATION-Moontide Theatre]] in Silkshore.
 
 Vice Purveyor for [[PC-Kaslyn]]

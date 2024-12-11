@@ -1,3 +1,4 @@
+#enemy
 Member of the [[FACTION-Ink Rakes]]
 
 Rival of [[PC-Kaslyn]]
