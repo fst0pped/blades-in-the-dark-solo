@@ -12,7 +12,8 @@
  **Playbook:** Lurk
  **Heritage:** Iruvia. Water Bearers - family connections to an underground resistance movement fighting imperial occupation.
  **Background:** Roof runner, lookout scout and messenger. Initially for the Iruvian resistance, and they still get pro bono work sometimes, but it's a transferable skillset in Duskvol.
-
+ 
+ Member of the [[FACTION-Iruvian Resistance]]
 ## Stats
 
 | Insight |     | Prowess  |     | Resolve |     |
