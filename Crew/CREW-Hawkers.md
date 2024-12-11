@@ -1,8 +1,8 @@
 **Reputation:** Savvy
 
-**Lair:** Tiny back room of a tavern in Crow's Foot.
+**Lair:** Tiny back room of the [[LOCATION-Emperor's Head Tavern]] in Crow's Foot.
 
-**Hunting Grounds:** Crow's foot, opposite the bridge from Silksore.
+**Hunting Grounds:** Crow's foot, opposite the bridge from Silkshore.
 **Controlled by:** The Crows
 
 **Favoured Operation:** Socialise. Improve customer and/or supplier relations with a social event.
@@ -23,7 +23,7 @@
 
 ## Contacts
 
-**Starting contact:** Hoxley. A smuggler. *Perhaps a friend of powerful ship captains?*
+**Starting contact:** [[NPC-Hoxley]]. A smuggler. *Perhaps a friend of powerful ship captains?*
 
 # Links
 

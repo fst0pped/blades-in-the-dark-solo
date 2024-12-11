@@ -1,0 +1,1 @@
+Training ground and school and legitimate cover for [[FACTION-Red Sashes]] activity

@@ -25,11 +25,11 @@
 **Special ability:** Infiltrator. Not affected by quality or tier when bypassing security measures. 
 
 ## Contacts
-**Close Friend:** Vestine. A swordmaster at the Red Sash sword academy and mentor for resistance members.
+**Close Friend:** [[NPC-Vestine]]. A swordmaster at the Red Sash sword academy and mentor for resistance members.
 
-**Rival:** Darmot. An Inspector tasked with bringing down the local resistance movement who always seems to be in the wrong place at the right time. 
+**Rival:** [[NPC-Darmot]]. An Inspector tasked with bringing down the local resistance movement who always seems to be in the wrong place at the right time. 
 
-**Vice Purveyor:** Arquo. Community outreach overseer at the Iruvian Consulate. Organises 'integration' events with the local community and charitable work in the poorer communities. Endless opportunities to volunteer - streetwork, paperwork, organisation, approaching local businesses. A real exercise in local soft power.
+**Vice Purveyor:** [[NPC-Arquo]]. Community outreach overseer at the Iruvian Consulate. Organises 'integration' events with the local community and charitable work in the poorer communities. Endless opportunities to volunteer - streetwork, paperwork, organisation, approaching local businesses. A real exercise in local soft power.
 
 ## Looks
 Woman. Slim, fast, a gymnast's frame. Exotic looking, by Akorosian standards. Wears loose fitting clothing and a short cloak which can be pulled up as a hood when she wants to hide her face, and thrown back around her shoulders if she suddenly needs to run.

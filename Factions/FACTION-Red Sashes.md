@@ -1,0 +1,1 @@
+[[LOCATION-Red Sash Sword Academy]]

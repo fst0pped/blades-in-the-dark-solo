@@ -25,11 +25,11 @@
 **Special ability:** Saboteur. When you *Wreck* the work is much quieter and well hidden from casual inspection.
 
 ## Contacts
-**Close Friend:** Stazia. On-site medic at the factory. Once punched Eckerd in the face.
+**Close Friend:** [[NPC-Stazia]]. On-site medic at the factory. Once punched Eckerd in the face.
 
-**Rival:** Eckerd. Shift supervisor. A thug and a bully, pressures workers to skip safety protocols.
+**Rival:** [[NPC-Eckerd]]. Shift supervisor. A thug and a bully, pressures workers to skip safety protocols.
 
-**Vice Purveyor:** Bug. Runs a shop selling little miniature figures and bits of wood, metal and paint for making miniature dioramas. Has a workshop in the basement where his strange obsessive customers gather and build, and talk about 'coverage' and 'pigment density' and 'stay wet palettes'. Weirdos.
+**Vice Purveyor:** [[NPC-Bug]]. Runs a shop selling little miniature figures and bits of wood, metal and paint for making miniature dioramas. Has a workshop in the basement where his strange obsessive customers gather and build, and talk about 'coverage' and 'pigment density' and 'stay wet palettes'. Weirdos.
 
 ## Looks
 Man. Tall, bald, wiry. Simple clothes but in good material, patched and with occasional paint spots around cuffs and on trouser legs. Thick glasses. Seems to be able to materialise basic tools like screwdrivers out of thin air when needed. Probably has a lot of custom pockets sewn into clothes.

@@ -1,0 +1,1 @@
+[[LOCATION-Textile factory]]
