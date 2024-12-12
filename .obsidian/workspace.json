@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "DISTRICT-Silkshore"
             }
+          },
+          {
+            "id": "eb87a21db776ec0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Cuts notes/Trauma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trauma"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,8 +204,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d98f96b2a7db2c30",
+  "active": "eb87a21db776ec0c",
   "lastOpenFiles": [
+    "Deep Cuts notes/Trauma.md",
+    "Deep Cuts notes/Harm.md",
+    "Deep Cuts notes",
+    "Districts/DISTRICT-Silkshore.md",
     "Districts/DISTRICT-Crows Foot.md",
     "Districts/DISTRICT-Coalridge.md",
     "Districts/DISTRICT-Charterhall.md",
@@ -208,7 +226,6 @@
     "Factions/FACTION-Inspectors.md",
     "Factions/FACTION-Dockers.md",
     "Factions/FACTION-Bluecoats.md",
-    "Districts/DISTRICT-Silkshore.md",
     "Districts",
     "Crew/Upgrades/UPGRADE-Workshop.md",
     "Crew/Upgrades/UPGRADE-Secure Lair.md",
@@ -218,9 +235,7 @@
     "NPCs/NPC-Flint.md",
     "Factions/FACTION-Ink Rakes.md",
     "PCs/PC-Kaslyn.md",
-    "NPCs/NPC-Bryl.md",
     "Factions",
-    "NPCs/NPC-Klyra.md",
     "Locations",
     "Untitled.canvas",
     "Crew",
