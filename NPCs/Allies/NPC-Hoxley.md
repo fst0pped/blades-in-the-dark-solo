@@ -1,5 +1,5 @@
 #ally
-Smuggler and starting contact for [[CREW-Hawkers]]
+Smuggler and starting contact for [[CREW-The Sparrows]]
 
 Liked by the [[FACTION-Dockers]]
 

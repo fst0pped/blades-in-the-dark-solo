@@ -1,4 +1,4 @@
-[[CREW-Hawkers]]
+[[CREW-The Sparrows]]
 ## Experience triggers
 * Address a challenge with stealth or evasion
 ## Special items (p.75)

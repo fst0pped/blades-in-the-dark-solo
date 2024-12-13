@@ -1,4 +1,4 @@
-[[CREW-Hawkers]]
+[[CREW-The Sparrows]]
 ## Experience triggers
 * Address a challenge with deception or influence
 ## Special items (p.79)
