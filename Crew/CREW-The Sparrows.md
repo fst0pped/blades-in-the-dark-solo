@@ -1,5 +1,7 @@
 **Crew Type:** Hawkers
 **Reputation:** Savvy
+**Heat:** +6
+**Rep:**  +4
 
 **Lair:** Tiny back room of the [[LOCATION-Emperor's Head Tavern]] in Crow's Foot.
 

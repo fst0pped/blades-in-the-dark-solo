@@ -1,4 +1,6 @@
 [[CREW-The Sparrows]]
+
+**Stress:** 2
 ## Experience triggers
 * Address a challenge with deception or influence
 ## Special items (p.79)
