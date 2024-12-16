@@ -1,6 +1,7 @@
 [[CREW-The Sparrows]]
 
-**Stress:** 4
+**Stress:** 7
+**XP:** 1/6 0/6 0/6 0/6
 ## Experience triggers
 * Address a challenge with technical skill or mayhem
 ## Special items (p.71)

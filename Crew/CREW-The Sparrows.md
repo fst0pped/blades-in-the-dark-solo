@@ -1,8 +1,8 @@
 **Crew Type:** Hawkers
 **Reputation:** Savvy
 **Heat:** +6
-**Rep:**  +4
-
+**Rep:**  4/12
+**XP:** 3/6 0/6 0/6 0/6
 **Lair:** Tiny back room of the [[LOCATION-Emperor's Head Tavern]] in Crow's Foot.
 
 **Hunting Grounds:** Crow's foot, opposite the bridge from Silkshore.
