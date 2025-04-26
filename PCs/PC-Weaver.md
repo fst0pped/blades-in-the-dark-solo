@@ -1,7 +1,10 @@
 [[CREW-The Sparrows]]
 
-**Stress:** 7
+**Stress:** 0
 **XP:** 1/6 0/6 0/6 0/6
+
+#### Projects
+Replicate Skullsplitter: 3/8
 ## Experience triggers
 * Address a challenge with technical skill or mayhem
 ## Special items (p.71)
